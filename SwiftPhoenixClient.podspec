@@ -29,11 +29,11 @@ on Phoenix Channels check out the guide:
 http://www.phoenixframework.org/docs/channels
                        DESC
 
-  s.homepage         = "https://github.com/davidstump/SwiftPhoenixClient"
+  s.homepage         = "https://github.com/spddheeraj/SwiftPhoenixClient"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "David Stump" => "david@davidstump.net" }
-  s.source           = { :git => "https://github.com/davidstump/SwiftPhoenixClient.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/spddheeraj/SwiftPhoenixClient.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '9.0'
@@ -46,5 +46,5 @@ http://www.phoenixframework.org/docs/channels
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'Starscream', '~> 1.0.0'
+  s.dependency 'Starscream', '~> 1.1.4'
 end
