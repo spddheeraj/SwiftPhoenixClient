@@ -29,10 +29,10 @@ on Phoenix Channels check out the guide:
 http://www.phoenixframework.org/docs/channels
                        DESC
 
-  s.homepage         = "https://github.com/davidstump/SwiftPhoenixClient"
+  s.homepage         = "https://github.com/spddheeraj/SwiftPhoenixClient"
   s.license          = 'MIT'
   s.author           = { "David Stump" => "david@davidstump.net" }
-  s.source           = { :git => "https://github.com/davidstump/SwiftPhoenixClient.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/spddheeraj/SwiftPhoenixClient.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '9.0'
   s.requires_arc = true
